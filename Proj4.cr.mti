@@ -1,0 +1,95 @@
+E:/my_modelsim/my_modelsim/ece254a/Proj4/completion_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/completion_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module complete_tb
+
+Top level modules:
+	complete_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/top_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/loadunit.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/loadunit.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module loadunit
+
+Top level modules:
+	loadunit
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/dispatch.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/dispatch.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module dispatch
+
+Top level modules:
+	dispatch
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/adder.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/register.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/register.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/adder_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/storeunit.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/storeunit.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module storeunit
+
+Top level modules:
+	storeunit
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/macros.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/macros.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/multi_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/multi_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module multi_tb
+
+Top level modules:
+	multi_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/instque.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/instque.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module instque
+
+Top level modules:
+	instque
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/Completion.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/Completion.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module completion
+
+Top level modules:
+	completion
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/loadstore_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/loadstore_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module loadstore_tb
+
+Top level modules:
+	loadstore_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj4/multi.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj4/multi.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module multi
+
+Top level modules:
+	multi
+
+} {} {}}
